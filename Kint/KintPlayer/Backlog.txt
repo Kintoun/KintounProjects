@@ -1,0 +1,16 @@
+InProgress:
+
+Prioritized:
+	Try a WPF tutorial
+	Research mp3 codec libraries
+	Research how to use C++ CLI backend with a C# WPF interface	
+	Install boost
+	
+Unprioritized:
+	Check out WPF Performance Suite - http://windowsclient.net/wpf/perf/wpf-perf-tool.aspx
+
+Completed:
+	Setup GitHub account
+	Install C#
+	Get Notepad++
+	Setup colors from http://studiostyl.es/, using Twilight
